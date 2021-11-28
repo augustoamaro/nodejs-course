@@ -15,3 +15,5 @@ Seção 4
 
 - Instalar o pacote npm yargs
 - Como usar o yargs
+- Armazenar dados com JSON
+
